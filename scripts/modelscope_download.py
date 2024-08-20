@@ -11,7 +11,7 @@ snapshot_download('AI-ModelScope/XTTS-v2', local_dir='models/TTS/XTTS-v2')
 # snapshot_download('qwen/Qwen1.5-4B-Chat', local_dir='models/LLM/Qwen1.5-4B-Chat')
 
 # https://modelscope.cn/models/qwen/Qwen1.5-1.8B-Chat
-snapshot_download('qwen/Qwen1.5-1.B-Chat', local_dir='models/LLM/Qwen1.5-1.8B-Chat')
+snapshot_download('qwen/Qwen1.5-1.8B-Chat', local_dir='models/LLM/Qwen1.5-1.8B-Chat')
 
 # https://modelscope.cn/models/keepitsimple/faster-whisper-large-v3
 snapshot_download('keepitsimple/faster-whisper-large-v3', local_dir='models/ASR/whisper/faster-whisper-large-v3')
